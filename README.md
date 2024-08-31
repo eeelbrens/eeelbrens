@@ -24,7 +24,7 @@ Welcome to my Github profile!
 [![Codeforces](https://img.shields.io/badge/Codeforces-Handle%3A_elbrens-%231F8ACB?style=for-the-badge&logo=codeforces&logoColor=black&labelColor=%23F8CC4F)
 ](https://codeforces.com/profile/elbrens)
 [![nvim](https://img.shields.io/badge/Nvim-%2357A143?style=for-the-badge&logo=neovim&logoColor=white)
-](https://github.com/eeelbrens/dotfiles-gruvbox/tree/main/.config/nvim)
+](https://github.com/eeelbrens/dotfiles-hyprland/tree/main/.config/nvim)
 
 ---
 
