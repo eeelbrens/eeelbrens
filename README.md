@@ -6,11 +6,13 @@ Welcome to my Github profile!
 ### About Me:
 👨‍💻  Aspiring software engineer and a coding enjoyer.
 
-💻  Linux Enthusiast; I use Arch Linux w/ SwayWM as my daily driver, and I enjoy ricing (theming) and configuring my PC to sky's limit. [**Checkout my current PC rice/setup!**](https://github.com/eeelbrens/dotfiles-gruvbox).
+💻  Linux Enthusiast; I use Arch Linux w/ hyprland as my daily driver, and I enjoy ricing (theming) and configuring my PC to sky's limit.
+
+[![hypr](https://github-readme-stats.vercel.app/api/pin/?username=eeelbrens&repo=dotfiles-hyprland)](https://github.com/eeelbrens/dotfiles-hyprland)
 
 🎨  Icon designer for [Delta-Icons](https://github.com/Delta-Icons/android) (w/ +150 icons). 
 
-![Github Usage](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=eeelbrens&theme=gruvbox) 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=eeelbrens&theme=transparent&show_icons=true&rank_icon=github&hide_title=true)
 
 ---
 
@@ -45,20 +47,20 @@ Distros:
 
 Desktop Environments/Window Manager:
 
-![SwayWM](https://img.shields.io/badge/SwayWM-%2368741C?style=for-the-badge&logoColor=white)
-
-![GNOME](https://img.shields.io/badge/GNOME-%234A86CF?style=for-the-badge&logo=gnome&logoColor=white)
 ![hyprland](https://img.shields.io/badge/hyprland-%2358E1FF?style=for-the-badge&logo=hyprland&logoColor=black)
+
+![SwayWM](https://img.shields.io/badge/SwayWM-%2368741C?style=for-the-badge&logoColor=white)
+![GNOME](https://img.shields.io/badge/GNOME-%234A86CF?style=for-the-badge&logo=gnome&logoColor=white)
 ![KDE](https://img.shields.io/badge/KDE-%231D99F3?style=for-the-badge&logo=kde&logoColor=white)
 
 ---
 
 ### Hobbies:
 
-[![Ricing](https://img.shields.io/badge/Ricing-%23282828?style=for-the-badge&logo=archlinux&logoColor=%23ebdbb2)](https://github.com/eeelbrens/dotfiles-gruvbox)
+[![Ricing](https://img.shields.io/badge/Ricing-%231d1f21?style=for-the-badge&logo=archlinux&logoColor=%23c5c8c6)](https://github.com/eeelbrens/dotfiles-hyprland)
 ![Tech News](https://img.shields.io/badge/tech_news-%231875F3?style=for-the-badge&logoColor=white)
 ![Vexillology](https://img.shields.io/badge/Vexillology-white?style=for-the-badge&logoColor=white)
-[![Anime](https://img.shields.io/badge/Anime-%23903987?style=for-the-badge&logoColor=white)](https://anilist.co/user/HelveticaE/)
+[![Anime](https://img.shields.io/badge/Animanga-%23903987?style=for-the-badge&logoColor=white)](https://anilist.co/user/HelveticaE/)
 
 ---
 
