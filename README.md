@@ -26,6 +26,8 @@ Welcome to my Github profile!
 [![nvim](https://img.shields.io/badge/Nvim-%2357A143?style=for-the-badge&logo=neovim&logoColor=white)
 ](https://github.com/eeelbrens/dotfiles-hyprland/tree/main/.config/nvim)
 
+`codeforces and nvim are clickable...`
+
 ---
 
 ### Programming Languages:
@@ -52,18 +54,3 @@ Desktop Environments/Window Manager:
 ![SwayWM](https://img.shields.io/badge/SwayWM-%2368741C?style=for-the-badge&logoColor=white)
 ![GNOME](https://img.shields.io/badge/GNOME-%234A86CF?style=for-the-badge&logo=gnome&logoColor=white)
 ![KDE](https://img.shields.io/badge/KDE-%231D99F3?style=for-the-badge&logo=kde&logoColor=white)
-
----
-
-### Hobbies:
-
-[![Ricing](https://img.shields.io/badge/Ricing-%231d1f21?style=for-the-badge&logo=archlinux&logoColor=%23c5c8c6)](https://github.com/eeelbrens/dotfiles-hyprland)
-![Tech News](https://img.shields.io/badge/tech_news-%231875F3?style=for-the-badge&logoColor=white)
-![Vexillology](https://img.shields.io/badge/Vexillology-white?style=for-the-badge&logoColor=white)
-[![Anime](https://img.shields.io/badge/Animanga-%23903987?style=for-the-badge&logoColor=white)](https://anilist.co/user/HelveticaE/)
-
----
-
-👥  Feel free to follow and connect!
-
-`also, hover over hyperlinked badges for eastereggs...`
