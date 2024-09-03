@@ -8,7 +8,7 @@ Welcome to my Github profile!
 
 💻  Linux Enthusiast; I use Arch Linux w/ hyprland as my daily driver, and I enjoy ricing (theming) and configuring my PC to sky's limit.
 
-[![hypr](https://github-readme-stats.vercel.app/api/pin/?username=eeelbrens&repo=dotfiles-hyprland)](https://github.com/eeelbrens/dotfiles-hyprland)
+[![hypr](https://github-readme-stats.vercel.app/api/pin/?username=eeelbrens&repo=dotfiles-hyprland)](https://github.com/eeelbrens/dotfiles-hyprland) [![gruv](https://github-readme-stats.vercel.app/api/pin/?username=eeelbrens&repo=dotfiles-gruvbox)](https://github.com/eeelbrens/dotfiles-gruvbox)
 
 🎨  Icon designer for [Delta-Icons](https://github.com/Delta-Icons/android) (w/ +150 icons). 
 
