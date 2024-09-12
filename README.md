@@ -1,18 +1,8 @@
-# Well, It's me... eeelbrens! 🌟
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=eeelbrens\&show_icons=true\&rank_icon=github\&hide_title=true\&show=prs_merged\&hide=prs\&bg_color=1d1f21\&title_color=c5c8c6\&text_color=b4b7b4\&icon_color=8abeb7)
 
-```
-Welcome to my Github profile!
-```
-### About Me:
-👨‍💻  Aspiring software engineer and a coding enjoyer.
+[![hypr](https://github-readme-stats.vercel.app/api/pin/?username=eeelbrens\&repo=dotfiles-hyprland\&bg_color=1d1f21\&title_color=8abeb7\&text_color=b4b7b4\&icon_color=8abeb7)](https://github.com/eeelbrens/dotfiles-hyprland) [![gruv](https://github-readme-stats.vercel.app/api/pin/?username=eeelbrens\&repo=dotfiles-gruvbox\&bg_color=1d1f21\&title_color=de935f\&text_color=b4b7b4\&icon_color=de935f)](https://github.com/eeelbrens/dotfiles-gruvbox)
 
-💻  Linux Enthusiast; I use Arch Linux w/ hyprland as my daily driver, and I enjoy ricing (theming) and configuring my PC to sky's limit.
-
-[![hypr](https://github-readme-stats.vercel.app/api/pin/?username=eeelbrens&repo=dotfiles-hyprland)](https://github.com/eeelbrens/dotfiles-hyprland) [![gruv](https://github-readme-stats.vercel.app/api/pin/?username=eeelbrens&repo=dotfiles-gruvbox)](https://github.com/eeelbrens/dotfiles-gruvbox)
-
-🎨  Icon designer for [Delta-Icons](https://github.com/Delta-Icons/android) (w/ +150 icons). 
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=eeelbrens&theme=transparent&show_icons=true&rank_icon=github&hide_title=true)
+Also icon designer for [Delta-Icons](https://github.com/Delta-Icons/android) (w/ +150 icons).
 
 ---
 
@@ -39,6 +29,8 @@ Welcome to my Github profile!
 ---
 
 ### Linux Experience:
+`I use Arch Linux w/ hyprland as my daily driver, and I enjoy ricing (theming) and configuring my PC to sky's limit.`
+
 Distros:
 
 ![Arch Linux](https://img.shields.io/badge/I_use_arch_btw_:\)-%231793D1?style=for-the-badge&logo=archlinux&logoColor=white)
