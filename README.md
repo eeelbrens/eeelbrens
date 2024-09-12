@@ -34,7 +34,7 @@ Also icon designer for [Delta-Icons](https://github.com/Delta-Icons/android) (w/
 Distros:
 
 ![Arch Linux](https://img.shields.io/badge/I_use_arch_btw_:\)-%231793D1?style=for-the-badge&logo=archlinux&logoColor=white)
-
+ ... 
 ![Fedora](https://img.shields.io/badge/Fedora-%2351A2DA?style=for-the-badge&logo=fedora&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-%23A81D33?style=for-the-badge&logo=debian&logoColor=white)
 ![Mint](https://img.shields.io/badge/Mint-%2386BE43?style=for-the-badge&logo=linuxmint&logoColor=white)
@@ -42,7 +42,7 @@ Distros:
 Desktop Environments/Window Manager:
 
 ![hyprland](https://img.shields.io/badge/hyprland-%2358E1FF?style=for-the-badge&logo=hyprland&logoColor=black)
-
+ ... 
 ![SwayWM](https://img.shields.io/badge/SwayWM-%2368741C?style=for-the-badge&logoColor=white)
 ![GNOME](https://img.shields.io/badge/GNOME-%234A86CF?style=for-the-badge&logo=gnome&logoColor=white)
 ![KDE](https://img.shields.io/badge/KDE-%231D99F3?style=for-the-badge&logo=kde&logoColor=white)
