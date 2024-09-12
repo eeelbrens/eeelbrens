@@ -1,4 +1,4 @@
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=eeelbrens\&show_icons=true\&rank_icon=github\&hide_title=true\&show=prs_merged\&hide=prs\&bg_color=1d1f21\&title_color=c5c8c6\&text_color=b4b7b4\&icon_color=8abeb7)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=eeelbrens\&show_icons=true\&rank_icon=github\&hide_title=true\&show=prs_merged\&hide=prs\&bg_color=1d1f21\&title_color=c5c8c6\&text_color=b4b7b4\&icon_color=c5c8c6)
 
 [![hypr](https://github-readme-stats.vercel.app/api/pin/?username=eeelbrens\&repo=dotfiles-hyprland\&bg_color=1d1f21\&title_color=8abeb7\&text_color=b4b7b4\&icon_color=8abeb7)](https://github.com/eeelbrens/dotfiles-hyprland) [![gruv](https://github-readme-stats.vercel.app/api/pin/?username=eeelbrens\&repo=dotfiles-gruvbox\&bg_color=1d1f21\&title_color=de935f\&text_color=b4b7b4\&icon_color=de935f)](https://github.com/eeelbrens/dotfiles-gruvbox)
 
