@@ -2,7 +2,7 @@
 
 [![hypr](https://github-readme-stats.vercel.app/api/pin/?username=eeelbrens\&repo=dotfiles-hyprland\&bg_color=1d1f21\&title_color=8abeb7\&text_color=b4b7b4\&icon_color=8abeb7)](https://github.com/eeelbrens/dotfiles-hyprland) [![gruv](https://github-readme-stats.vercel.app/api/pin/?username=eeelbrens\&repo=dotfiles-sway\&bg_color=1d1f21\&title_color=de935f\&text_color=b4b7b4\&icon_color=de935f)](https://github.com/eeelbrens/dotfiles-sway)
 
-Also icon designer for [Delta-Icons](https://github.com/Delta-Icons/android) (w/ +150 icons).
+Also icon designer for [Delta-Icons](https://github.com/Delta-Icons/android) (top contributor w/ +180 original icons).
 
 ---
 
