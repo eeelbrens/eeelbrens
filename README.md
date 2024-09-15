@@ -43,6 +43,6 @@ Desktop Environments/Window Manager:
 
 ![hyprland](https://img.shields.io/badge/hyprland-%2358E1FF?style=for-the-badge&logo=hyprland&logoColor=black)
  ... 
-![SwayWM](https://img.shields.io/badge/SwayWM-%2368741C?style=for-the-badge&logoColor=white)
+![SwayWM](https://img.shields.io/badge/SwayWM-%2368741C?style=for-the-badge&logo=sway&logoColor=white)
 ![GNOME](https://img.shields.io/badge/GNOME-%234A86CF?style=for-the-badge&logo=gnome&logoColor=white)
 ![KDE](https://img.shields.io/badge/KDE-%231D99F3?style=for-the-badge&logo=kde&logoColor=white)
