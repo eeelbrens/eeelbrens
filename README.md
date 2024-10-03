@@ -20,14 +20,6 @@ Also icon designer for [Delta-Icons](https://github.com/Delta-Icons/android) (to
 
 ---
 
-### Programming Languages:
-![C++](https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%23FDCE41?style=for-the-badge&logo=python&logoColor=black)
-![Java](https://img.shields.io/badge/Java-%23E82223?style=for-the-badge&logo=java&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnubash&logoColor=white)
-
----
-
 ### Linux Experience:
 `I use Arch Linux w/ hyprland as my daily driver, and I enjoy ricing (theming) and configuring my PC to sky's limit.`
 
