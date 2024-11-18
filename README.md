@@ -4,8 +4,8 @@
 
 ### Interests/Skills/Tools:
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white)
-[![LinuxRicing](https://img.shields.io/badge/Linux-Ricing-8abeb7?style=for-the-badge&logo=hyprland&logoColor=8abeb7&labelColor=1d1f21
-)](https://github.com/eeelbrens/dotfiles-hyprland)
+[![LinuxRicing](https://img.shields.io/badge/Linux-Ricing-ffa066?style=for-the-badge&logo=hyprland&logoColor=7e9cd8&labelColor=1f1f28
+)](https://github.com/eeelbrens/dotfiles-hyprland-kanagawa)
 
 ![Inkscape](https://img.shields.io/badge/Inkscape-black?style=for-the-badge&logo=inkscape&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Illustrator-%23FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
